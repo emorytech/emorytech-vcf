@@ -7,7 +7,7 @@ X-ABShowAs:COMPANY
 TEL;TYPE=CELL,VOICE:859-429-0510
 EMAIL;TYPE=INTERNET,WORK:Help@EmoryTech.us
 URL;TYPE=WORK:https://helpme.emorytech.us
-item1.URL:https://vcf.biz.emorytech.us/EmoryTech_Digital_Business_Card_Flyer.png
+item1.URL:http://vcf.biz.emorytech.us/EmoryTech_Digital_Business_Card_Flyer.png
 item1.X-ABLabel:Digital Business Card
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAIBAQIBAQICAgI
  CAgICAwUDAwMDAwYEBAMFBwYHBwcGBwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/
